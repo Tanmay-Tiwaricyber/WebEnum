@@ -7,7 +7,7 @@ echo "#  #  #  #####   #####  #####    # #  #  #    #  # ## #"
 echo "#  #  #  #       #    # #        #  # #  #    #  #    #"
 echo "#  #  #  #       #    # #        #   ##  #    #  #    #"
 echo " ## ##   ######  #####  #######  #    #   ####   #    #"
-printf "\e[1;77m\e[45m  WebEnum Version 1.0 Author: Mg Hacker   \e[0m\n"
+printf "\e[1;77m\e[45m  WebEnum Version 1.0 Author: shadowXg   \e[0m\n"
 printf "\n"
 
 echo "Enter Target IP >>"
